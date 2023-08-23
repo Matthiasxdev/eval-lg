@@ -26,3 +26,7 @@ Dans le cas d'un fichier de client extrêmement gros, le client relève les deux
 
 * Le fichier est long a être généré
 * En cas de très gros fichier, l'application se ferme sans avoir terminé, avec une erreur
+
+## Instructions MV
+
+* Utiliser npm run start pour lancer l'app.
